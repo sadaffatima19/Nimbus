@@ -2,8 +2,7 @@
    NIMBUS WEATHER APP — SCRIPT (Frontend only)
    ============================================================ */
 
-// API_KEY is REMOVED from frontend - now calls your Vercel function
-const BASE_URL = '/api/weather'; // Your Vercel serverless function
+const BASE_URL = '/api/weather';
 
 /* ────────── DOM refs ────────── */
 const cityInput     = document.getElementById('cityInput');

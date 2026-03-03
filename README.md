@@ -114,8 +114,7 @@ Animations — Modify keyframes in CSS
 4. Push to branch (git push origin feature/amazing)
 5. Open a Pull Request
 
-📝 License
-MIT License — see LICENSE file.
+📝 License MIT License — see LICENSE file.
 
 👨‍💻 Author
 Sadaf Fatima
