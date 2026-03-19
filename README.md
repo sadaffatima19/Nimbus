@@ -120,7 +120,7 @@ Animations — Modify keyframes in CSS
 Sadaf Fatima
 GitHub: @sadaffatima19
 LinkedIn: Sadaf Fatima
-Portfolio: https://portfolio-kappa-steel-9nwgl6k8si.vercel.app/
+Portfolio: https://portfolio-sadaf-blog.vercel.app/
 
 🙏 Acknowledgments
 1. OpenWeatherMap for free weather data
